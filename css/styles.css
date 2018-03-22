@@ -30,3 +30,7 @@
     padding-right:0;
     padding-left:0;
 }
+
+.navbar-inverse {
+    background-color: #512DA8
+}
