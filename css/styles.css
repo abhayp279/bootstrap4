@@ -16,8 +16,9 @@
 }
 
 .jumbotron {
-    padding: 70px 30px 70px 30px;
+    padding: 16px 30px 0px 30px;
     margin: 0px auto;
+    height: 230px;
     background: #9575CD;
     color: floralwhite;
 }
@@ -34,3 +35,9 @@
 .navbar-inverse {
     background-color: #512DA8
 }
+@media(max-width:992px) {
+    .nav>li>a {
+        padding-left: 10px;
+        padding-right:10px
+        }
+    }
