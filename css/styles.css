@@ -41,3 +41,13 @@
         padding-right:10px
         }
     }
+
+.card {
+    margin-bottom: 0px;
+    border-bottom-width: 0px;
+    height: 300px;
+}
+
+.card-block {
+    height: 100px;
+}
