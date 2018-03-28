@@ -46,8 +46,20 @@
     margin-bottom: 0px;
     border-bottom-width: 0px;
     height: 300px;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 800px;
 }
 
 .card-block {
-    height: 100px;
+    height: 95px;
+    
 }
+  .offset-3 {
+    margin-left: 28%;
+}
+
+.offset-2 {
+    margin-left: 25%;
+}
+
