@@ -54,7 +54,7 @@
     height: 95px;
     
 }
-  .offset-3 {
+.offset-3 {
     margin-left: 28%;
 }
 
@@ -86,4 +86,20 @@
     top: 0;
     left: 0;
     min-height: 300px;
+}
+.form-check {
+    color: black;"
+}
+.modal-header {
+    background: #9575CD;
+    border-bottom: 0px;
+}
+.modal-body {
+    background: peachpuff;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.modal-footer {
+    background: #9575CD;
 }
